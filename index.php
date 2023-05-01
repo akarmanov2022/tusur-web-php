@@ -19,6 +19,7 @@
     </div>
     <div class="menu">
         <a href="labs/lab1/lab1.php" class="c">Лабораторная работа №1</a>
+        <a href="labs/lab2/lab2.php" class="c">Лабораторная работа №2</a>
     </div>
 </body>
 </html>
